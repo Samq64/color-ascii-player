@@ -1,5 +1,5 @@
-# colour-ascii-player
-A Curses Python script using ffpyplayer that plays colored ASCII videos in the terminal with YouTube support.
+# Color ASCII Player
+A Curses Python script that uses ffpyplayer to play colored ASCII videos in the terminal with YouTube support.
 
 ## Setup
 
