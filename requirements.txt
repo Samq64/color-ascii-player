@@ -1,0 +1,3 @@
+ffpyplayer
+numpy
+yt_dlp
